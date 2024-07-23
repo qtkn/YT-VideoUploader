@@ -10,8 +10,11 @@ This bot monitors a specified YouTube channel and posts notifications in a Disco
 
 ## Setup Instructions
 You need these 3 things for the bot to work
+
 1 - google-api-python-client
+
 2 - discord.py
+
 3 - flask
 
 ## How to install
